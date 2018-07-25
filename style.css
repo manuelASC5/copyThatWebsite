@@ -1,0 +1,66 @@
+/*aqib and manuel*/
+body{
+    text-align:center; 
+    background: rgb(0,0,0);
+    color: rgb(245,245,245);
+    background-image:url("https://www.futuregamereleases.com/wp-content/uploads/2018/07/Fortnite-Season-5.jpg");
+}
+.square{ 
+    height: 40px;
+    width: 100px;
+    display:inline-block;
+}
+#first{
+    background-color: orange;
+}
+#second{
+    background-color: purple;
+}
+#third{
+    background-color: blue;
+}
+#fourth{
+    background-color: green;
+}
+#fifth{
+    background-color: gray;
+}
+#sixth{
+    background-color: red;
+}
+#seventh{
+    background-color: red;
+}
+#eighth{
+    background-color: red;
+}
+#pic1{
+    height:12%;
+    width:12%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic2{
+    height:12%;
+    width:12%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic3{
+    height:12%;
+    width:12%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic4{
+    height:12%;
+    width:12%;
+    padding: 0; 
+    margin: 0; 
+}
+.row1{
+display: inline-block;
+}
+.row2{
+display: inline-block;
+}
